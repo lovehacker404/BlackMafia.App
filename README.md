@@ -1,10 +1,10 @@
-#Android-BlackMafia-Virus⚠️
+⚠️Android-BlackMafia-Virus:
 
 
 `⛔BlackMafia is an android virus and lovehacker is an anti-virus that has features as mentioned below.`
 
 
-#BlackMafia Android Virus Features:-⚠️
+⚠️BlackMafia Android Virus Features:
 
 
 `⛔Send sms continuously from the device to all phone contacts randomly till mobile balance is nill`
@@ -23,7 +23,7 @@
 
 
 
-#lovehacker Android Anti-Virus Features:-
+⚠️lovehacker Android Anti-Virus Features:
 
 
 `☣️The only solution to uninstall BlackMafia virus from infected mobile.`
